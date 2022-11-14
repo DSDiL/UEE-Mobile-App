@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LearnWish</string>
+    <string name="add_request">Add Request</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="if_you_are_already_registered">If you are already registered</string>
+    <string name="request">Request</string>
+    <string name="requesting_service">Requesting Service</string>
+    <string name="requester_position">Requester Position</string>
+    <string name="service_method">Service Method</string>
+    <string name="brief_description_about_request">Brief Description about Request</string>
+    <string name="requests">Requests</string>
+    <string name="location">Location</string>
+    <string name="added_requests">Added Requests</string>
+    <string name="email_address">Email Address</string>
+    <string name="request_id">Request ID</string>
+    <string name="description">Description</string>
+    <string name="more_details">More</string>
+    <string name="request_details">Request Details</string>
+    <string name="providers">Providers</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+</resources>

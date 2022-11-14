@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048172293454",
+    "project_id": "uee-project-cb4ce",
+    "storage_bucket": "uee-project-cb4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048172293454:android:bebc91b883ffc0b147421f",
+        "android_client_info": {
+          "package_name": "app.learnwish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048172293454-pr5cdaagh5n6ma1nu7io8r0sii3nhsd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.learnwish",
+            "certificate_hash": "d3dd4c336e567728960f4a0a0a44f15748eb53b9"
+          }
+        },
+        {
+          "client_id": "1048172293454-p9mnim0ldo4euub1l89vjhrmc40agjov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9g0HKmYrEEYZjIfAkPRDepQgLqSnoF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048172293454-p9mnim0ldo4euub1l89vjhrmc40agjov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
